@@ -1,2 +1,2 @@
-# primeiro-rep-cursojs
+# Meu primeiro repositório do curso JS
 Curso JS
